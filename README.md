@@ -35,8 +35,8 @@ If you are unsure, refer to the following [Build](#build) and use the UXP Develo
 
 After successful installation, it will appear in the Plugins menu and the Plugins panel.
 
-<img src="images/Plugin_menu.png" width="100%">
-<img src="images/Plugin_panel.png" width="30%">
+<img src="images/plugin_menu.png" width="100%">
+<img src="images/plugin_panel.png" width="30%">
 
 ### Requirements
 Photoshop 2022(23.3.0) or higher.
