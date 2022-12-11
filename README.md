@@ -35,8 +35,7 @@ If you are unsure, refer to the following [Build](#build) and use the UXP Develo
 
 After successful installation, it will appear in the Plugins menu and the Plugins panel.
 
-![Plugin menu](images/Plugin_menu.png)
-
+<img src="images/Plugin_menu.png" width="100%">
 <img src="images/Plugin_panel.png" width="30%">
 
 ### Requirements
